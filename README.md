@@ -1,4 +1,3 @@
-# e-commerce-web-app
 # E-Commerce Web Application
 
 This is a full-stack e-commerce web application developed as part of the HND in Computer & Software Engineering. Users can browse products, add them to the cart, and make secure payments.
